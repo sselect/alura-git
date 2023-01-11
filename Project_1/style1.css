@@ -1,0 +1,7 @@
+#box{
+    position: absolute;
+    width: 1600px;
+    height: 833px;
+    border: 1px solid black;
+    margin: 256px 188px 188px 184px;
+}
